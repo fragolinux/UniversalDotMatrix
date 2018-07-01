@@ -1,0 +1,15 @@
+[submodule "libraries/MD_Parola"]
+	path = libraries/MD_Parola
+	url = https://github.com/MajicDesigns/MD_Parola
+[submodule "libraries/MD_MAX72XX"]
+	path = libraries/MD_MAX72XX
+	url = https://github.com/MajicDesigns/MD_MAX72XX
+[submodule "libraries/ArduinoJson"]
+	path = libraries/ArduinoJson
+	url = https://github.com/bblanchon/ArduinoJson
+[submodule "libraries/WiFiManager"]
+	path = libraries/WiFiManager
+	url = https://github.com/kentaylor/WiFiManager
+[submodule "libraries/DoubleResetDetector"]
+	path = libraries/DoubleResetDetector
+	url = https://github.com/datacute/DoubleResetDetector
