@@ -13,3 +13,18 @@
 [submodule "libraries/DoubleResetDetector"]
 	path = libraries/DoubleResetDetector
 	url = https://github.com/datacute/DoubleResetDetector
+[submodule "libraries/brzo_i2c"]
+	path = libraries/brzo_i2c
+	url = https://github.com/pasko-zh/brzo_i2c
+[submodule "libraries/DallasTemperature"]
+	path = libraries/DallasTemperature
+	url = https://github.com/milesburton/Arduino-Temperature-Control-Library
+[submodule "libraries/esp8266-oled-ssd1306"]
+	path = libraries/esp8266-oled-ssd1306
+	url = https://github.com/ThingPulse/esp8266-oled-ssd1306
+[submodule "libraries/NtpClient"]
+	path = libraries/NtpClient
+	url = https://github.com/gmag11/NtpClient
+[submodule "libraries/PubSubClient"]
+	path = libraries/PubSubClient
+	url = https://github.com/knolleary/pubsubclient
